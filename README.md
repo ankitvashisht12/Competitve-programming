@@ -12,4 +12,4 @@ This Repo contains Competitive questions which can be used for learning purpose 
 * Submit a pull request
 
 ## Prerequisites :sunglasses:
-:+1: Any programming language
+:+1: Any programming language of your choice.
